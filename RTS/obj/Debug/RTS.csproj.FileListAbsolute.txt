@@ -1,0 +1,111 @@
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\RTS.exe.config
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\RTS.exe
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\RTS.pdb
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.Properties.Resources.resources
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.exe
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.pdb
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.frmMain.resources
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\Graph.dll
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\StochasticLib.dll
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\Graph.pdb
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\StochasticLib.pdb
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\RTS.exe.config
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.exe
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.pdb
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\RTS.exe
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\RTS.pdb
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\Graph.dll
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\StochasticLib.dll
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\Graph.pdb
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\bin\Debug\StochasticLib.pdb
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.frmMain.resources
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.Properties.Resources.resources
+C:\Users\nau\Диск Google\projects\RTS (1)\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\RTS.exe.config
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.exe
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.pdb
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\RTS.exe
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\RTS.pdb
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\Graph.dll
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\StochasticLib.dll
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\Graph.pdb
+C:\Users\nau\Диск Google\projects\RTS\RTS\bin\Debug\StochasticLib.pdb
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.frmMain.resources
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.Properties.Resources.resources
+C:\Users\nau\Диск Google\projects\RTS\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+E:\projects\RTS\RTS\bin\Debug\RTS.exe.config
+E:\projects\RTS\RTS\obj\Debug\RTS.exe
+E:\projects\RTS\RTS\obj\Debug\RTS.pdb
+E:\projects\RTS\RTS\bin\Debug\RTS.exe
+E:\projects\RTS\RTS\bin\Debug\RTS.pdb
+E:\projects\RTS\RTS\bin\Debug\EquationSolve.dll
+E:\projects\RTS\RTS\bin\Debug\Graph.dll
+E:\projects\RTS\RTS\bin\Debug\StochasticLib.dll
+E:\projects\RTS\RTS\bin\Debug\EquationSolve.pdb
+E:\projects\RTS\RTS\bin\Debug\Graph.pdb
+E:\projects\RTS\RTS\bin\Debug\StochasticLib.pdb
+E:\projects\RTS\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+E:\projects\RTS\RTS\obj\Debug\RTS.frmMain.resources
+E:\projects\RTS\RTS\obj\Debug\RTS.Properties.Resources.resources
+E:\projects\RTS\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+N:\projects\RTS\RTS\bin\Debug\RTS.exe.config
+N:\projects\RTS\RTS\obj\Debug\RTS.exe
+N:\projects\RTS\RTS\obj\Debug\RTS.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\RTS.exe.config
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.exe
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\RTS.exe
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\RTS.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\EquationSolve.dll
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\Graph.dll
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\StochasticLib.dll
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\EquationSolve.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\Graph.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\StochasticLib.pdb
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.frmMain.resources
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.Properties.Resources.resources
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\Simplex.dll
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\Simplex.pdb
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\EquationSolve.dll
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\Simplex.dll
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\EquationSolve.pdb
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\Simplex.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\RTS.exe.config
+E:\Google Disc\projects\RTS\RTS\bin\Debug\RTS.exe
+E:\Google Disc\projects\RTS\RTS\bin\Debug\RTS.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\EquationSolve.dll
+E:\Google Disc\projects\RTS\RTS\bin\Debug\Graph.dll
+E:\Google Disc\projects\RTS\RTS\bin\Debug\Simplex.dll
+E:\Google Disc\projects\RTS\RTS\bin\Debug\StochasticLib.dll
+E:\Google Disc\projects\RTS\RTS\bin\Debug\EquationSolve.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\Graph.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\Simplex.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\StochasticLib.pdb
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.frmMain.resources
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.Properties.Resources.resources
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.csproj.GenerateResource.Cache
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.exe
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.pdb
+E:\Google Disc\projects\RTS\RTS\bin\Debug\RTS.exe.manifest
+E:\Google Disc\projects\RTS\RTS\bin\Debug\RTS.application
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.csprojResolveAssemblyReference.cache
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.exe.manifest
+E:\Google Disc\projects\RTS\RTS\obj\Debug\RTS.application
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\RTS.exe.manifest
+C:\Users\user\Google Диск\projects\RTS\RTS\bin\Debug\RTS.application
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.exe.manifest
+C:\Users\user\Google Диск\projects\RTS\RTS\obj\Debug\RTS.application
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\RTS.exe.manifest
+C:\Users\Nau\Google Drive\projects\RTS\RTS\bin\Debug\RTS.application
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.exe.manifest
+C:\Users\Nau\Google Drive\projects\RTS\RTS\obj\Debug\RTS.application
+C:\Users\nau\Google Drive\projects\RTS\RTS\bin\Debug\ForwardingTechnology.dll
+C:\Users\nau\Google Drive\projects\RTS\RTS\bin\Debug\TransportMarket.dll
+C:\Users\nau\Google Drive\projects\RTS\RTS\bin\Debug\ForwardingTechnology.pdb
+C:\Users\nau\Google Drive\projects\RTS\RTS\bin\Debug\TransportMarket.pdb
